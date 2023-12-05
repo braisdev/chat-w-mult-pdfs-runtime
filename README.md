@@ -29,7 +29,7 @@ To set up the project locally, follow these steps:
 - Navigate to the repository directory
   ```bash
   cd your-repo-name
-  ``
+  ```
 - Install dependencies using Pipenv
   ```bash
   pipenv install
